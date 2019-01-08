@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changelog>
+  
+<changeset datePattern="yyyyMMdd HH:mm:ss z" start="20181209 10:39:13 CET" end="20190109 10:39:13 CET">
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2019-01-08</date>
+		<time pattern="HH:mm:ss">09:39:42</time>
+		<author><![CDATA[SophieBou <sophie.bouvry1@gmail.com>]]></author>
+		<file>
+			<action>added</action>
+			<name>googleStyle.xml</name>
+			<revision>8db764b133c75a7258e6e0207fcc78fc876ea57b</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>pom.xml</name>
+			<revision>8db764b133c75a7258e6e0207fcc78fc876ea57b</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>src/main/java/TP1/SIR/App.java</name>
+			<revision>8db764b133c75a7258e6e0207fcc78fc876ea57b</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>src/main/java/TP1/SIR/JXBusyLabelTest.java</name>
+			<revision>8db764b133c75a7258e6e0207fcc78fc876ea57b</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>src/test/java/TP1/SIR/AppTest.java</name>
+			<revision>8db764b133c75a7258e6e0207fcc78fc876ea57b</revision>
+		</file>
+		<msg><![CDATA[Add files via upload]]></msg>
+	</changelog-entry>
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2019-01-08</date>
+		<time pattern="HH:mm:ss">09:39:13</time>
+		<author><![CDATA[SophieBou <sophie.bouvry1@gmail.com>]]></author>
+		<file>
+			<action>deleted</action>
+			<name>pom.xml</name>
+			<revision>242e1e0bdfe0cb05280debe5188f7568ca778e47</revision>
+		</file>
+		<msg><![CDATA[Delete pom.xml]]></msg>
+	</changelog-entry>
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2019-01-08</date>
+		<time pattern="HH:mm:ss">09:39:06</time>
+		<author><![CDATA[SophieBou <sophie.bouvry1@gmail.com>]]></author>
+		<file>
+			<action>deleted</action>
+			<name>googleStyle.xml</name>
+			<revision>ed55296d89dcf1c94f1a7ed8996d34044b4bae13</revision>
+		</file>
+		<msg><![CDATA[Delete googleStyle.xml]]></msg>
+	</changelog-entry>
+	<changelog-entry>
+		<date pattern="yyyy-MM-dd">2019-01-08</date>
+		<time pattern="HH:mm:ss">09:38:32</time>
+		<author><![CDATA[SophieBou <sophie.bouvry1@gmail.com>]]></author>
+		<file>
+			<action>added</action>
+			<name>googleStyle.xml</name>
+			<revision>0553bde0619412e2020a0d706978d14c9fe938e8</revision>
+		</file>
+		<file>
+			<action>added</action>
+			<name>pom.xml</name>
+			<revision>0553bde0619412e2020a0d706978d14c9fe938e8</revision>
+		</file>
+		<msg><![CDATA[Add files via upload]]></msg>
+	</changelog-entry>
+</changeset>
+
+</changelog>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2019-01-08T10:39:13.866">
+<file name="H:\windows\git\TP1SIR\src\main\java\TP1\SIR\JXBusyLabelTest.java">
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Import Statement Rules" package="TP1.SIR" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.awt.FlowLayout'
+</violation>
+<violation beginline="57" endline="57" begincolumn="21" endcolumn="21" rule="UnusedLocalVariable" ruleset="Unused Code Rules" package="TP1.SIR" class="JXBusyLabelTest" method="thibaut" variable="c" externalInfoUrl="http://pmd.sourceforge.net/rules/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'c'.
+</violation>
+</file>
+</pmd>
